@@ -3,3 +3,4 @@ Git is free software distributed under the GPL
 I'm learning git
 git track the changes?
 yes
+now I want to change the file
